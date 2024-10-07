@@ -1,0 +1,70 @@
+{
+  "id": "skip",
+  "firstName": "skip",
+  "lastName": "skip",
+  "maidenName": "skip",
+  "age": "skip",
+  "gender": "skip",
+  "email": "skip",
+  "phone": "skip",
+  "username": "${username}",
+  "password": "${password}",
+  "birthDate": "skip",
+  "image": "skip",
+  "bloodGroup": "skip",
+  "height": "skip",
+  "weight": "skip",
+  "eyeColor": "skip",
+  "hair": {
+    "color": "skip",
+    "type": "skip"
+  },
+  "ip": "skip",
+  "address": {
+    "address": "skip",
+    "city": "skip",
+    "state": "skip",
+    "stateCode": "skip",
+    "postalCode": "skip",
+    "coordinates": {
+      "lat": "skip",
+      "lng": "skip"
+    },
+    "country": "skip"
+  },
+  "macAddress": "skip",
+  "university": "skip",
+  "bank": {
+    "cardExpire": "skip",
+    "cardNumber": "skip",
+    "cardType": "skip",
+    "currency": "skip",
+    "iban": "skip"
+  },
+  "company": {
+    "department": "skip",
+    "name": "skip",
+    "title": "skip",
+    "address": {
+      "address": "skip",
+      "city": "skip",
+      "state": "skip",
+      "stateCode": "skip",
+      "postalCode": "skip",
+      "coordinates": {
+        "lat": "skip",
+        "lng": "skip"
+      },
+      "country": "skip"
+    }
+  },
+  "ein": "skip",
+  "ssn": "skip",
+  "userAgent": "skip",
+  "crypto": {
+    "coin": "skip",
+    "wallet": "skip",
+    "network": "skip"
+  },
+  "role": "skip"
+}

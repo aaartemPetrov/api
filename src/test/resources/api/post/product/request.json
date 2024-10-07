@@ -1,0 +1,10 @@
+{
+  <#if title??>"title": "${productTitle}",</#if>
+  "price": 2027,
+  "discountPercentage": 0,
+  "stock": 1,
+  "rating": 5,
+  "description": "It is how it is.",
+  "brand": "A+A",
+  "category": "Life"
+}

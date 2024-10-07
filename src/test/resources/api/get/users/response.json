@@ -1,0 +1,6 @@
+{
+  "users": "predicate:arrayPredicate",
+  "total": "type:Integer",
+  "skip": 0,
+  "limit": 30
+}

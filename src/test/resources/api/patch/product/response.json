@@ -1,0 +1,13 @@
+{
+  "id": "type:Integer",
+  "title": "${productTitle}",
+  "price": "type:Double",
+  "discountPercentage": "type:Double",
+  "stock": "type:Integer",
+  "rating": "type:Double",
+  "images": "type:JSONArray",
+  "thumbnail": "type:String",
+  "description": "type:String",
+  "brand": "type:String",
+  "category": "type:String"
+}

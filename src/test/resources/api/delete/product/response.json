@@ -1,0 +1,27 @@
+{
+  "id": ${productId},
+  "title": "type:String",
+  "description": "type:String",
+  "category": "type:String",
+  "price": "type:Double",
+  "discountPercentage": "type:Double",
+  "rating": "type:Double",
+  "stock": "type:Integer",
+  "tags": "type:JSONArray",
+  "brand": "type:String",
+  "sku": "type:String",
+  "weight": "type:Integer",
+  "dimensions": "type:JSONObject",
+  "warrantyInformation": "type:String",
+  "shippingInformation": "type:String",
+  "availabilityStatus": "type:String",
+  "reviews": "type:JSONArray",
+  "returnPolicy": "type:String",
+  "minimumOrderQuantity": "type:Integer",
+  "meta": "type:JSONObject",
+  "images": "type:JSONArray",
+  "thumbnail": "type:String",
+  "isDeleted": true,
+  "deletedOn": "type:String"
+}
+
